@@ -1,7 +1,7 @@
 ## Hi there 👋
 Breve apresentação...
 
-Meu nome é Vinícius trevisan,sou do Brasil (BR).Trabalho com esquadrias de PVC ,mas quero me especializar em desenvolvedor web.
+Meu nome é Vinícius Trevisan,sou do Brasil (BR).Trabalho com esquadrias de PVC ,mas quero me especializar em desenvolvedor web.
 
 No meu tempo livre gosto de ficar com minha familia e amigos ,jogando um bom papo fora ,támbem gosto de fazer trilha de camionete ,para conhecer varios lugares diferentes.
 
