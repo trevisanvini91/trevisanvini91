@@ -1,9 +1,10 @@
 ## Hi there 👋
 Breve apresentação...
 
-Meu nome é Vinícius Trevisan,sou do Brasil (BR).Trabalho com esquadrias de PVC ,mas quero me especializar em desenvolvedor web.
+Meu nome é Vinícius Trevisan,sou do Brasil (BR).Sou desenvolvedor júnior backend,estou estudando sobre:
+Api,Nodjs,Typescript,Javascript,Bancos Sql,Php.
 
-No meu tempo livre gosto de ficar com minha familia e amigos ,jogando um bom papo fora ,támbem gosto de fazer trilha de camionete ,para conhecer varios lugares diferentes.
+No meu tempo livre gosto de ficar com minha familia e amigos,jogando um bom papo fora,támbem gosto de fazer trilha de camionete,para conhecer varios lugares diferentes.
 
 Pode me encontrar támbem :
 
